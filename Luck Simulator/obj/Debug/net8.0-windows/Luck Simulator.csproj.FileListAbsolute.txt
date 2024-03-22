@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\bin\Debug\net8.0-windows\Luck Simulator.exe
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\bin\Debug\net8.0-windows\Luck Simulator.deps.json
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\bin\Debug\net8.0-windows\Luck Simulator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\bin\Debug\net8.0-windows\Luck Simulator.dll
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\bin\Debug\net8.0-windows\Luck Simulator.pdb
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck_Simulator.Form1.resources
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.dll
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\refint\Luck Simulator.dll
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.pdb
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\Luck Simulator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Luck Simulator\Luck Simulator\obj\Debug\net8.0-windows\ref\Luck Simulator.dll

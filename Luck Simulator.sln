@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luck Simulator", "Luck Simulator\Luck Simulator.csproj", "{639C6AFA-5BF9-49A9-B94F-D4BE1B177626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639C6AFA-5BF9-49A9-B94F-D4BE1B177626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639C6AFA-5BF9-49A9-B94F-D4BE1B177626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639C6AFA-5BF9-49A9-B94F-D4BE1B177626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639C6AFA-5BF9-49A9-B94F-D4BE1B177626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56838E59-9BF6-4E1A-831C-FAB09A1598DD}
+	EndGlobalSection
+EndGlobal
