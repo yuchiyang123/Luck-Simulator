@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Luck Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c21d97d5971e6aa6ab35f5de938a71a21f1c460")]
 [assembly: System.Reflection.AssemblyProductAttribute("Luck Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Luck Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
